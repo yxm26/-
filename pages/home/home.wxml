@@ -1,0 +1,9 @@
+
+<view class="container">
+<!-- wx.switchTab 的限制
+只能跳转到 tabBar 配置中的页面。
+如果目标页面不是 tabBar 页面，使用 wx.navigateTo -->
+  <navigator class="item" url="/pages/login1/login1">微信一键登录</navigator>
+  <navigator class="item" url="/pages/login/login">普通登录</navigator>
+  <button bind:tap="goToIndex">暂不登录</button>
+</view>
