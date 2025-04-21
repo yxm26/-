@@ -116,9 +116,9 @@ Page({
                           userInfo: user,
                       })
                       
-                      setTimeout(function(){//定时跳转到用户页面
+                      setTimeout(function(){//定时跳转到首页页面
                         wx.switchTab({
-                          url: '../info/info'
+                          url: '../index/index'
                         })
                       },1000)
 
@@ -143,3 +143,5 @@ Page({
       })
   },
 })
+
+

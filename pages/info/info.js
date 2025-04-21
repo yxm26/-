@@ -16,23 +16,23 @@ Page({
     recently: [
       { 
         bookName: '人生难得是从容',
-        bookImg: 'cloud://cloud1-3ghh4jpx16007e93.636c-cloud1-3ghh4jpx16007e93-1305604874/images/index/hot1.jpg'
+        bookImg: 'cloud://cloud1-1g4o6q2o3e4864c5.636c-cloud1-1g4o6q2o3e4864c5-1349760642/images/index/hot1.jpg'
       },
       { 
         bookName: '三体',
-        bookImg: 'cloud://cloud1-3ghh4jpx16007e93.636c-cloud1-3ghh4jpx16007e93-1305604874/images/index/select13.jpg'
+        bookImg: 'cloud://cloud1-1g4o6q2o3e4864c5.636c-cloud1-1g4o6q2o3e4864c5-1349760642/images/index/select13.jpg'
       },
       { 
         bookName: '明朝那些事',
-        bookImg: 'cloud://cloud1-3ghh4jpx16007e93.636c-cloud1-3ghh4jpx16007e93-1305604874/images/index/select8.jpg'
+        bookImg: 'cloud://cloud1-1g4o6q2o3e4864c5.636c-cloud1-1g4o6q2o3e4864c5-1349760642/images/index/select8.jpg'
       },
       { 
         bookName: '斗破苍穹',
-        bookImg: 'cloud://cloud1-3ghh4jpx16007e93.636c-cloud1-3ghh4jpx16007e93-1305604874/images/index/select17.jpg'
+        bookImg: 'cloud://cloud1-1g4o6q2o3e4864c5.636c-cloud1-1g4o6q2o3e4864c5-1349760642/images/index/select17.jpg'
       },
       { 
         bookName: '麻衣神算子',
-        bookImg: 'cloud://cloud1-3ghh4jpx16007e93.636c-cloud1-3ghh4jpx16007e93-1305604874/images/index/select7.jpg'
+        bookImg: 'cloud://cloud1-1g4o6q2o3e4864c5.636c-cloud1-1g4o6q2o3e4864c5-1349760642/images/index/select7.jpg'
       },
     ]
   },
